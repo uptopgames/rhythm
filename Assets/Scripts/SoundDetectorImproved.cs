@@ -56,7 +56,7 @@ public class SoundDetectorImproved : MonoBehaviour
 	}
 	private GameState gameState = GameState.Start;
 	
-	private int currentStage = 0;
+	public int currentStage = 0;
 	private int beatLocalCounter = 0;
 	private int beatPlayerCounter = 0;
 	private float absoluteTime = 0;

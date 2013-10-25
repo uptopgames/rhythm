@@ -12,7 +12,14 @@ public class PitchManager : MonoBehaviour
 
 	public void Go (Notes newNote, float newHeight, int newColor)
 	{
+		Debug.Log ("newColor: " + newColor);
+		
+		// GLA Up Top Fix Me
+		if (newColor == 12) newColor = 11;
+		
 		particleSystem.startColor = colors[newColor];
+		
+		Debug.Log ("newNote: " + newNote);
 		
 		if((int)newNote>11)
 		{

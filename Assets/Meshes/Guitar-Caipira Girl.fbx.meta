@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 9bf51495f25881c45865cc7d8143628e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Banquinho
+    100002: Barriga
+    100004: Bota_Direita
+    100006: Bota_Esquerda
+    100008: Braco D
+    100010: Braco E
+    100012: Cabeca 1
+    100014: Cabeca 2
+    100016: Cabelo
+    100018: Cabelo.2
+    100020: Caipira
+    100022: Camisa
+    100024: Chapeu
+    100026: Cinto
+    100028: Cinto.2
+    100030: Cotovelo D
+    100032: Cotovelo E
+    100034: Coxa D
+    100036: Coxa E
+    100038: Dedao 1 D
+    100040: Dedao 1 E
+    100042: Dedao 2 D
+    100044: Dedao 2 E
+    100046: Dedao 3 D
+    100048: Dedao 3 E
+    100050: Dedos 1 D
+    100052: Dedos 1 E
+    100054: Dedos 2 D
+    100056: Dedos 2 E
+    100058: Girl_Rock
+    100060: Guitar
+    100062: //RootNode
+    100064: Guitarra Joint
+    100066: Guitarra Joint 1
+    100068: Guitarra Joint 2
+    100070: Jaqueta
+    100072: Joelho D
+    100074: Joelho E
+    100076: Light
+    100078: Light.1
+    100080: Light.2
+    100082: Mao D
+    100084: Mao E
+    100086: Mecha
+    100088: Menina
+    100090: Null
+    100092: Null.10
+    100094: Null.11
+    100096: Null.12
+    100098: Null.13
+    100100: Null.14
+    100102: Null.15
+    100104: Null.16
+    100106: Null.17
+    100108: Null.18
+    100110: Null.19
+    100112: Null.2
+    100114: Null.20
+    100116: Null.3
+    100118: Null.4
+    100120: Null.5
+    100122: Null.6
+    100124: Null.7
+    100126: Null.8
+    100128: Null.9
+    100130: Ombro D
+    100132: Ombro E
+    100134: Pe D
+    100136: Pe D.2
+    100138: Pe E
+    100140: Pe E.2
+    100142: Peito
+    100144: Pelvis
+    100146: Perna D
+    100148: Perna E
+    100150: Punho D
+    100152: Punho E
+    100154: Rabo
+    100156: Rabo2
+    100158: SobrancelhaDireita
+    100160: SobrancelhaDireita.2
+    100162: SobrancelhaEsquerda
+    100164: SobrancelhaEsquerda.2
+    100166: Tornozelo D
+    100168: Tornozelo E
+    100170: Viola
+    100172: Viola Joint
+    100174: Viola Joint 1
+    100176: Viola Joint 2
+    400000: Banquinho
+    400002: Barriga
+    400004: Bota_Direita
+    400006: Bota_Esquerda
+    400008: Braco D
+    400010: Braco E
+    400012: Cabeca 1
+    400014: Cabeca 2
+    400016: Cabelo
+    400018: Cabelo.2
+    400020: Caipira
+    400022: Camisa
+    400024: Chapeu
+    400026: Cinto
+    400028: Cinto.2
+    400030: Cotovelo D
+    400032: Cotovelo E
+    400034: Coxa D
+    400036: Coxa E
+    400038: Dedao 1 D
+    400040: Dedao 1 E
+    400042: Dedao 2 D
+    400044: Dedao 2 E
+    400046: Dedao 3 D
+    400048: Dedao 3 E
+    400050: Dedos 1 D
+    400052: Dedos 1 E
+    400054: Dedos 2 D
+    400056: Dedos 2 E
+    400058: Girl_Rock
+    400060: Guitar
+    400062: //RootNode
+    400064: Guitarra Joint
+    400066: Guitarra Joint 1
+    400068: Guitarra Joint 2
+    400070: Jaqueta
+    400072: Joelho D
+    400074: Joelho E
+    400076: Light
+    400078: Light.1
+    400080: Light.2
+    400082: Mao D
+    400084: Mao E
+    400086: Mecha
+    400088: Menina
+    400090: Null
+    400092: Null.10
+    400094: Null.11
+    400096: Null.12
+    400098: Null.13
+    400100: Null.14
+    400102: Null.15
+    400104: Null.16
+    400106: Null.17
+    400108: Null.18
+    400110: Null.19
+    400112: Null.2
+    400114: Null.20
+    400116: Null.3
+    400118: Null.4
+    400120: Null.5
+    400122: Null.6
+    400124: Null.7
+    400126: Null.8
+    400128: Null.9
+    400130: Ombro D
+    400132: Ombro E
+    400134: Pe D
+    400136: Pe D.2
+    400138: Pe E
+    400140: Pe E.2
+    400142: Peito
+    400144: Pelvis
+    400146: Perna D
+    400148: Perna E
+    400150: Punho D
+    400152: Punho E
+    400154: Rabo
+    400156: Rabo2
+    400158: SobrancelhaDireita
+    400160: SobrancelhaDireita.2
+    400162: SobrancelhaEsquerda
+    400164: SobrancelhaEsquerda.2
+    400166: Tornozelo D
+    400168: Tornozelo E
+    400170: Viola
+    400172: Viola Joint
+    400174: Viola Joint 1
+    400176: Viola Joint 2
+    2300000: Banquinho
+    3300000: Banquinho
+    4300000: Menina
+    4300002: Cabelo
+    4300004: SobrancelhaEsquerda
+    4300006: SobrancelhaDireita
+    4300008: Cinto
+    4300010: Mecha
+    4300012: Rabo
+    4300014: Jaqueta
+    4300016: Guitar
+    4300018: Viola
+    4300020: Cabelo.2
+    4300022: SobrancelhaEsquerda.2
+    4300024: SobrancelhaDireita.2
+    4300026: Cinto.2
+    4300028: Rabo2
+    4300030: Chapeu
+    4300032: Camisa
+    4300034: Bota_Direita
+    4300036: Bota_Esquerda
+    4300038: Banquinho
+    7400000: banjo1
+    7400002: banjo2
+    7400004: banjo3
+    7400006: banjo4
+    7400008: banjo5
+    7400010: guitar1
+    7400012: guitar2
+    7400014: guitar3
+    7400016: guitar4
+    7400018: guitar5
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Bota_Direita
+    13700002: Bota_Esquerda
+    13700004: Cabelo
+    13700006: Cabelo.2
+    13700008: Camisa
+    13700010: Chapeu
+    13700012: Cinto
+    13700014: Cinto.2
+    13700016: Guitar
+    13700018: Jaqueta
+    13700020: Mecha
+    13700022: Menina
+    13700024: Rabo
+    13700026: Rabo2
+    13700028: SobrancelhaDireita
+    13700030: SobrancelhaDireita.2
+    13700032: SobrancelhaEsquerda
+    13700034: SobrancelhaEsquerda.2
+    13700036: Viola
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: banjo1
+      takeName: C4D Animation Take
+      firstFrame: 155
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: banjo2
+      takeName: C4D Animation Take
+      firstFrame: 200
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: banjo3
+      takeName: C4D Animation Take
+      firstFrame: 235
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: banjo4
+      takeName: C4D Animation Take
+      firstFrame: 274
+      lastFrame: 305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: banjo5
+      takeName: C4D Animation Take
+      firstFrame: 315
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: guitar1
+      takeName: C4D Animation Take
+      firstFrame: 390
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: guitar2
+      takeName: C4D Animation Take
+      firstFrame: 520
+      lastFrame: 640
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: guitar3
+      takeName: C4D Animation Take
+      firstFrame: 660
+      lastFrame: 780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: guitar4
+      takeName: C4D Animation Take
+      firstFrame: 810
+      lastFrame: 930
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    - name: guitar5
+      takeName: C4D Animation Take
+      firstFrame: 950
+      lastFrame: 1070
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
